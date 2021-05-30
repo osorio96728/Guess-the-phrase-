@@ -1,6 +1,7 @@
 # Guess the phrase in Python
 
-This game is the first project of The Polytechnic University of Puerto Rico
+This game is the first project of the class: CESC 3210-39
+of the Polytechnic University of Puerto Rico
 
 # Details About this Game:
 
